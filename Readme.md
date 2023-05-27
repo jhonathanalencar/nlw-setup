@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=NLW&message=10&color=8b5cf6&labelColor=202024" alt="NLW 11 - Setup" />
+  <img src="https://img.shields.io/static/v1?label=NLW&message=11&color=8b5cf6&labelColor=202024" alt="NLW 11 - Setup" />
   <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8b5cf6&labelColor=202024" alt="License"></a>
 </p>
 
